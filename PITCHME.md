@@ -27,6 +27,7 @@ Engineer; Maker;
 Programação; Impressão 3d; Home Automation; 
 Tecnologia; Motas; Eletrónica; Viagens; Gaming;
 ```
+
 ---
 
 # Percurso Académico
@@ -37,6 +38,7 @@ Tecnologia; Motas; Eletrónica; Viagens; Gaming;
 Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
 ## Escola Superior de Gestão e Tecnologia 
 (2009-2012)
+<!-- EPSM deu me bagagem tecnica para trabalhar logo na area, e o superior foi solidificar conhecimentos -->
 
 ---
 # Percurso Profissional
@@ -46,6 +48,9 @@ Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
 - "A ida para Lisboa"
 ### [Unisys](https://www.unisys.com/)/[Olisipo](https://www.olisipo.pt/)
 - "Impostor syndrome", a dúvida nas vossas capacidades é normal!
+<!-- O Estágio pode parecer apenas como algo teem que concluir para acabarem o curso, mas cuidado que o estágio pode abri-vos portas, e mim potenciou que trabalha-se e estudasse ao mesmo tempo, com a vantagem de trabalhar na area.
+Ir para o mercado de trabalho para Lisboa, foi como "ir para a piscina dos grandes" 
+-->
 
 ---
 
@@ -58,6 +63,10 @@ Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
 - Gestão de Equipas Remotas (PT;ES;IE)
 
 ![bg right](./assets/DSCF0356BW.png)
+<!-- Sair de Portugal foi sem duvida um dos pontos, mais enriquecedores de todo o percurso.
+Conhecer novas culturas, não só a irlandesa mas de todas as envolvidas, Indiana, Vietnamita, Espanhola, etc.
+
+Desafio adicional de gerir pessoas em diferentes fusos horario-->
 
 ---
 # [![drop-shadow:0px,0px,4px,rgba(255,255,255,1) width:350px](./assets/gs_logo.png)](https://www.globalshares.com/)
@@ -65,6 +74,8 @@ Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
 - Reuniões de Planeamento
 - Acompanhamento da Equipa
 - Reuniões Técnicas com Clientes/Partners
+
+<!-- Bastante trabalho, entre planear o produto trabalho como executar e manter a equipa motivada.-->
 
 ![bg opacity:.2 grayscale:1](./assets/DSCF0214BW.png)
 ![bg opacity:.2 grayscale:1](./assets/DSCF0283BW.png)
@@ -74,6 +85,7 @@ Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
 - Trabalhar e Estudar
 - Insegurança Pessoal
 - Medo de não corresponder a expectativa
+<!-- Os vossos desafios/medos são novos apenas para voces! Já houve que passa-se por isso! -->
 # Os novos desafios
 - Mentoring/Passagem de Conhecimento Remoto
 - Gestão da Equipa em tempos de Pandemia
@@ -87,6 +99,10 @@ Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
 - E Divirtam-se a trabalhar (Nerfs allowed :smile:)
 
 Tomem estes conselhos com um pouco de sal!
+
+<!-- Devem saber o que querem para o vosso futuro, ou pelo menos o que não querem. 
+Muito trabalho, existem muitos dias de chuva antes um dia de sol.
+No trabalho, tentem remar todos para o mesmo lado, se o foco está em tramar o outro, a que realmente interessa passa ao lado.-->
 
 ---
 
