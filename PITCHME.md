@@ -1,75 +1,98 @@
 ---
 marp: true
-title: Marp CLI example
+title: This is me!
 description: Hosting Marp slide deck on the web
-theme: uncover
-paginate: true
-_paginate: false
+theme: default   
+class:
+  - invert
+footer: 'Pedro Torrezão'
+_footer: ''
 ---
-
-![bg](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+# Hi, I'm Pedro Torrezão
+## Sr. Software Engineer at [Global Shares](https://www.globalshares.com) 
+[![w:32 h:32](/assets/github_logo.png)](https://github.com/ptorrezao) [![w:32 h:32](/assets/linkedin.png)](https://www.linkedin.com/in/pedrotorrezao/) [![w:32 h:32](/assets/smugmug.png)](https://ptorrezao.smugmug.com/) [![w:32 h:32](/assets/facebook.png)](https://www.facebook.com/ptorrezao/) [![w:32 h:32](/assets/email.png)](mailto:pedro.torrezao@gmail.com)
+![bg right blur:5px opacity:.5 grayscale:1](/assets/me.jpg)
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![bg left blur:5px opacity:.2 grayscale:1](/assets/maddy.jpg)
+#### Quem sou:
+```
+Pai; Developer (+10 anos); Team Leader; 
+Engineer; Maker; 
+```
+
+#### Hobbies/Gostos
+```
+Programação; Impressão 3d; Home Automation; 
+Tecnologia; Motas; Eletrónica; Viagens; Gaming;
+```
+---
+
+# Percurso Académico
+![bg left fit](/assets/epsm_0.png)
+![bg fit](/assets/esgts.png)
+## Escola Profissional Salvaterra de Magos 
+(2004-2007)
+Euro-Escola; Prova de Aptidão Profissional; Estágio Curricular
+## Escola Superior de Gestão e Tecnologia 
+(2009-2012)
+
+---
+# Percurso Profissional
+### Estágio (via EPSM) + [CIBEN](https://www.ciben.pt/) 
+- Apliquem-se no estágio, podem reparar em vocês! 
+### Link Consulting
+- "A ida para Lisboa"
+### Unisys/Olisipo
+- "Impostor syndrome", a dúvida nas vossas capacidades é normal!
 
 ---
 
-![bg](#123)
-![](#fff)
+# [![drop-shadow:0px,0px,4px,rgba(255,255,255,1) width:350px](/assets/gs_logo.png)](https://www.globalshares.com/)
+- Experiência Internacional
+- 3 Meses na Sede da Empresa
+- Talento Multi-Cultural (+300 pessoas)
+- 15 Escritórios
+    Lisboa; Cork; Barcelona; Clonakilty são TechHub
+- Gestão de Equipas Remotas (PT;ES;IE)
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+![bg right](/assets/DSCF0356BW.png)
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+---
+# [![drop-shadow:0px,0px,4px,rgba(255,255,255,1) width:350px](/assets/gs_logo.png)](https://www.globalshares.com/)
+- Programação do Produto
+- Reuniões de Planeamento
+- Acompanhamento da Equipa
+- Reuniões Técnicas com Clientes/Partners
+
+![bg opacity:.2 grayscale:1](/assets/DSCF0214BW.png)
+![bg opacity:.2 grayscale:1](/assets/DSCF0283BW.png)
+
+---
+# Desafios ao Longo do Percurso
+- Trabalhar e Estudar
+- Insegurança Pessoal
+- Medo de não corresponder a expectativa
+# Os novos desafios
+- Mentoring/Passagem de Conhecimento Remoto
+- Gestão da Equipa em tempos de Pandemia
+- Remote Work + Kids@Home
+
+---
+# Conselhos
+- Tenham um plano, mas estejam preparados para adapta-lo mas não desistir dele. 
+- Honestidade, Humildade e Hardwork
+- Ponham-se no lugar do outro, percebam o outro lado.
+- E Divirtam-se a trabalhar (Nerfs allowed :smile:)
+
+Tomem estes conselhos com um pouco de sal!
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+# <!--fit--> Questões??
 
-## **[GitHub Pages](https://github.com/pages)**
+## Obrigado!
 
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://www.netlify.com/img/press/logos/logomark.svg)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+[![w:32 h:32](/assets/github_logo.png)](https://github.com/ptorrezao) [![w:32 h:32](/assets/linkedin.png)](https://www.linkedin.com/in/pedrotorrezao/) [![w:32 h:32](/assets/smugmug.png)](https://ptorrezao.smugmug.com/) [![w:32 h:32](/assets/facebook.png)](https://www.facebook.com/ptorrezao/) [![w:32 h:32](/assets/email.png)](mailto:pedro.torrezao@gmail.com)
+![bg right blur:5px opacity:.5 grayscale:1](/assets/me.jpg)
