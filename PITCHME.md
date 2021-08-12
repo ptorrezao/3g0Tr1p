@@ -108,7 +108,7 @@ Ir para o mercado de trabalho para Lisboa, foi como "ir para a piscina dos grand
 # [![drop-shadow:0px,0px,4px,rgba(255,255,255,1) width:350px](./assets/gs_logo.png)](https://www.globalshares.com/)
 - Experiência Internacional
 - 3 Meses na Sede da Empresa
-- Talento Multi-Cultural (+300 pessoas)
+- Talento Multi-Cultural (+500 pessoas)
 - 15 Escritórios
     Lisboa; Cork; Barcelona; Clonakilty são TechHub
 - Gestão de Equipas Remotas (PT;ES;IE)
