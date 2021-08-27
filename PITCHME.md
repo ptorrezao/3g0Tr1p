@@ -164,7 +164,7 @@ No trabalho, tentem remar todos para o mesmo lado, se o foco está em tramar o o
 - Melhorar a rede contactos
 - Procurar obter certificações reconhecidas
 
-[![h:150](https://static.scrum.org/web/badges/badge-psmi.svg)](https://www.scrum.org/courses/professional-scrum-master-training) [![h:150 opacity:.3](https://static.scrum.org/web/badges/badge-psmii.svg)](https://www.scrum.org/courses/professional-scrum-master-ii-training) [![h:150 opacity:.3](https://static.scrum.org/web/badges/badge-sps.svg)](https://www.scrum.org/courses/scaled-professional-scrum-nexus-training)[![h:150 opacity:.3](https://www.cncf.io/wp-content/uploads/2020/08/kubernetes-ckad-color-1024x1003.png)](https://www.cncf.io/certification/ckad/) [![h:150 opacity:.3](https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg)](https://docs.microsoft.com/pt-pt/learn/certifications/azure-developer/)
+[![h:150](https://static.scrum.org/web/badges/badge-psmi.svg)](https://www.scrum.org/courses/professional-scrum-master-training) [![h:150](https://static.scrum.org/web/badges/badge-psmii.svg)](https://www.scrum.org/courses/professional-scrum-master-ii-training) [![h:150 opacity:.3](https://static.scrum.org/web/badges/badge-sps.svg)](https://www.scrum.org/courses/scaled-professional-scrum-nexus-training)[![h:150 opacity:.3](https://www.cncf.io/wp-content/uploads/2020/08/kubernetes-ckad-color-1024x1003.png)](https://www.cncf.io/certification/ckad/) [![h:150 opacity:.3](https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg)](https://docs.microsoft.com/pt-pt/learn/certifications/azure-developer/)
 
 ---
 # Code/Projects
