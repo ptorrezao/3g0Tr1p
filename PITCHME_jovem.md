@@ -69,7 +69,7 @@ ensinamos a máquina a fazer tarefas, passo a passo.
 - Um "professor de computadores" 👨‍🏫💻
 - Alguém que escreve instruções para a máquina perceber
 - Quem transforma ideias em aplicações, jogos e sites
-- Um resolvedor de problemas no dia a dia
+- Uma pessoa que resolve problemas no dia a dia
 - Um aprendiz constante 🚀
 
 ---
@@ -79,6 +79,7 @@ ensinamos a máquina a fazer tarefas, passo a passo.
 - Jogos 🎮
 - Telemóveis 📱
 - YouTube / TikTok / Instagram 🌐
+- Aplicações de bancos e pagamentos 💳
 - Robôs 🤖
 - Semáforos, carros, eletrodomésticos 🏠
 
